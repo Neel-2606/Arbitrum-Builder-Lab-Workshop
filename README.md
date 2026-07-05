@@ -1,6 +1,6 @@
 <div align="center">
 
-# ChainLens
+# ChainLens BY ARBITRUM BUILDER LAB
 
 ### Understand Blockchain, Beyond the Hype.
 
