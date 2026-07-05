@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import { Blocks, Github } from "lucide-react";
+import { Blocks, Github, Linkedin } from "lucide-react";
 import { SITE } from "@/constants/site";
 
 export function Footer() {
@@ -57,6 +57,16 @@ export function Footer() {
           >
             <Github size={16} aria-hidden />
             github.com/{author.github}
+          </a>
+          <a
+            href={author.linkedinUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label={`${author.name} on LinkedIn`}
+            className="mt-2 inline-flex items-center gap-2 text-sm text-mute transition-colors hover:text-brand focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand rounded-sm"
+          >
+            <Linkedin size={16} aria-hidden />
+            linkedin.com/in/neel-prajapati-ai
           </a>
         </div>
       </div>

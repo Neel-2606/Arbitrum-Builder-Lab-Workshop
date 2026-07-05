@@ -7,6 +7,7 @@ export const SITE = {
     name: "Neel Prajapati",
     github: "Neel-2606",
     githubUrl: "https://github.com/Neel-2606",
+    linkedinUrl: "https://www.linkedin.com/in/neel-prajapati-ai",
   },
   program: "Arbitrum Builder Pods",
 } as const;

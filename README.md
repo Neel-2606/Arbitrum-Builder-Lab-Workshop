@@ -917,14 +917,13 @@ Full-Stack Developer · Web3 Learner · Arbitrum Builder Pods
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Neel--2606-181717?style=flat-square&logo=github)](https://github.com/Neel-2606)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-neel--prajapati--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-prajapati-ai)
 
 <br />
 
 **Program:** Arbitrum Builder Pods
 
 **Live demo:** [arbitrum-builder-lab-workshop.vercel.app](https://arbitrum-builder-lab-workshop.vercel.app/)
-
-> **TODO:** Add LinkedIn profile URL.
 
 <br />
 
