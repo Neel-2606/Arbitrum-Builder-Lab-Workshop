@@ -30,6 +30,7 @@ An interactive, full-stack Web3 learning platform — explore Arbitrum Layer 2 c
 <!-- Status badges -->
 <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build passing" />
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome" />
+<a href="https://arbitrum-builder-lab-workshop.vercel.app/"><img src="https://img.shields.io/badge/demo-live-00DC82?style=flat-square&logo=vercel&logoColor=white" alt="Live demo on Vercel" /></a>
 
 <br /><br />
 
@@ -39,9 +40,7 @@ An interactive, full-stack Web3 learning platform — explore Arbitrum Layer 2 c
 
 <br /><br />
 
-[🚀 Live Demo](#) · [📖 Documentation](#table-of-contents) · [🐛 Report Bug](https://github.com/Neel-2606/Arbitrum-Builder-Lab-Workshop/issues) · [✨ Request Feature](https://github.com/Neel-2606/Arbitrum-Builder-Lab-Workshop/issues)
-
-> **TODO:** Replace Live Demo `#` with your deployed Vercel URL once live.
+[🚀 Live Demo](https://arbitrum-builder-lab-workshop.vercel.app/) · [📖 Documentation](#table-of-contents) · [🐛 Report Bug](https://github.com/Neel-2606/Arbitrum-Builder-Lab-Workshop/issues) · [✨ Request Feature](https://github.com/Neel-2606/Arbitrum-Builder-Lab-Workshop/issues)
 
 <br />
 
@@ -797,12 +796,12 @@ Repository: [github.com/Neel-2606/Arbitrum-Builder-Lab-Workshop](https://github.
 
 ### 4. Verify
 
+**Live site:** [arbitrum-builder-lab-workshop.vercel.app](https://arbitrum-builder-lab-workshop.vercel.app/)
+
 ```bash
-curl https://<your-app>.vercel.app/api/health
+curl https://arbitrum-builder-lab-workshop.vercel.app/api/health
 # → {"status":"ok","uptime":...,"version":"1.0.0"}
 ```
-
-> **TODO:** Add live demo URL badge once deployed.
 
 ### Nitro v3 + Vercel prerender note
 
@@ -880,7 +879,6 @@ Local `file:./data/chainlens.db` worked in dev but would fail on Vercel's read-o
 - [ ] Dark/light theme toggle (currently dark-only design tokens)
 - [ ] Real Arbitrum RPC integration (read contract / block explorer link)
 - [ ] Distributed Redis cache for `/api/prices` at scale
-- [ ] Live demo URL badge on README
 
 ---
 
@@ -924,9 +922,9 @@ Full-Stack Developer · Web3 Learner · Arbitrum Builder Pods
 
 **Program:** Arbitrum Builder Pods
 
-> **TODO:** Add LinkedIn profile URL.
+**Live demo:** [arbitrum-builder-lab-workshop.vercel.app](https://arbitrum-builder-lab-workshop.vercel.app/)
 
-> **TODO:** Add live Vercel demo link to the header once deployed.
+> **TODO:** Add LinkedIn profile URL.
 
 <br />
 
